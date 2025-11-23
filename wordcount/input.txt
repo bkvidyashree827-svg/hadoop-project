@@ -1,0 +1,4 @@
+hadoop is powerful
+hadoop is fast
+big data is amazing
+data science is future
